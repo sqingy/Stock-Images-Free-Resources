@@ -1,20 +1,20 @@
 # Stock-Images-Free-Resources
-https://www.logoquake.com
-http://deathtothestockphoto.com/
-http://unsplash.com/
-http://www.imcreator.com/free
-http://pixabay.com/
-http://getrefe.tumblr.com/
-http://www.stockvault.net/
-http://www.gratisography.com/
-http://www.rgbstock.com/
-http://nos.twnsnd.co/
-http://splitshire.com/
-http://littlevisuals.co/
-http://picjumbo.com/
-http://compfight.com/
-http://foter.com/
-http://superfamous.com/
-http://www.lifeofpix.com/
-http://pickupimage.com/
-http://www.seeklogo.com
+* https://www.logoquake.com
+* http://deathtothestockphoto.com/
+* http://unsplash.com/
+* http://www.imcreator.com/free
+*	http://pixabay.com/
+*	http://getrefe.tumblr.com/
+*	http://www.stockvault.net/
+*	http://www.gratisography.com/
+*	http://www.rgbstock.com/
+*	http://nos.twnsnd.co/
+*	http://splitshire.com/
+* http://littlevisuals.co/
+* http://picjumbo.com/
+* http://compfight.com/
+* http://foter.com/
+* http://superfamous.com/
+* http://www.lifeofpix.com/
+* http://pickupimage.com/
+* http://www.seeklogo.com
